@@ -13,6 +13,13 @@
         android:textColor="#000000"
         />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="SAVE REPORT"
+        android:onClick="onClickBtn"
+        android:layout_gravity="center"/>
 
     <!-- END    : Your code should be within this block -->
 
